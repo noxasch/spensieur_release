@@ -23,3 +23,8 @@ No code are stored here. Only alpha and beta release will be through here. <br>
 **Stable** release will be on platform default channel unless stated otherwise
 
 **This is a closed beta release** - if you are not invited, you are on your own.
+
+## Installation
+### Windows 11
+- Offline Installer and Zip (portable) version: You might need to allow to install app from anywhere `App & features > Chosse Where to get Apps > Anywhere`
+- Windows Store: Coming Soon
