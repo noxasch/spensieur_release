@@ -26,5 +26,6 @@ No code are stored here. Only alpha and beta release will be through here. <br>
 
 ## Installation
 ### Windows 11
-- Offline Installer and Zip (portable) version: You might need to allow to install app from anywhere `App & features > Chosse Where to get Apps > Anywhere`
+- Offline Installer and Zip (portable) version:
+    - You might need to allow to install app from anywhere `App & features > Chosse Where to get Apps > Anywhere`
 - Windows Store: Coming Soon
