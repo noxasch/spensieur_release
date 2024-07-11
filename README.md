@@ -19,6 +19,8 @@ Current platform support:
 
 Public facing repo for Spensieur finance app public beta.
 
+Join the discord: https://discord.gg/EsKUSpW5
+
 No code are stored here. Only alpha and beta release will be through here. <br>
 **Stable** release will be on platform default channel unless stated otherwise
 
