@@ -3,6 +3,14 @@
 Spensieur is a Personal Expense tracker with analytics that store data locally. <br>
 This app is release as if and I will not be responsble for any damage or losses.
 
+## Screenshots
+
+<img width="800" height="625" src="/assets/screenshot.webp"  />
+
+<img width="800" height="625" src="/assets/screenshot-1.webp"  />
+
+## Notes
+
 Future release (might include):
 - bug fixes
 - budgetting feature
